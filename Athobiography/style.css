@@ -6,7 +6,7 @@
 .container{
     background-image: url(images/background2.svg);
     background-size: cover;
-    padding: 13px;
+    padding: 12px;
 }
 
 .container #navbar{
